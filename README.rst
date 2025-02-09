@@ -77,7 +77,7 @@ Examples
 Some simple examples of what MongoEngine code looks like:
 
 .. code :: python
-
+    import datetime
     from mongoengine import *
     connect('mydb')
 
